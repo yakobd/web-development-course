@@ -1,0 +1,2 @@
+# Exercise
+from the powerpoint
